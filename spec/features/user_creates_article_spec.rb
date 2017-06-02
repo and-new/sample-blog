@@ -10,3 +10,4 @@ feature "Article Creation" do
     
     expect(page).to have_content 'New article'
   end
+end
